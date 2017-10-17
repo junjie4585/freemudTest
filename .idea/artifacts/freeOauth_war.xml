@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="freeOauth:war">
+    <output-path>$PROJECT_DIR$/freeOauth/target</output-path>
+    <root id="archive" name="freeOauth.war">
+      <element id="artifact" artifact-name="freeOauth:war exploded" />
+    </root>
+  </artifact>
+</component>

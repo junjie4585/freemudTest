@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/freeOauth/freeOauth.iml" filepath="$PROJECT_DIR$/freeOauth/freeOauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/freemudTest.iml" filepath="$PROJECT_DIR$/.idea/freemudTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freedmudtest/freemudtest.iml" filepath="$PROJECT_DIR$/freedmudtest/freemudtest.iml" />
+    </modules>
+  </component>
+</project>
